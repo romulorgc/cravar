@@ -1,0 +1,13 @@
+# Cravar
+
+> Cravar é um app de iPhone (App Store, Brasil, em português) que edita vídeo falado sozinho: legenda automática,
+> corte do silêncio e das pausas, tira os "né" e as frases repetidas e põe transição entre as frases. O vídeo sai
+> pronto para postar no TikTok e no Instagram Reels. A edição acontece no próprio iPhone, sem conta e sem login.
+
+- Para quem: criadores de conteúdo, profissionais liberais (saúde, direito, ensino) e pequenos negócios que gravam vídeo falando para a câmera.
+- Estilos de edição: corte seco, zoom, suave, chicote, impacto, flash e cinema (cada um com a sua transição).
+- Legenda: dez estilos ou sem legenda; toque numa palavra para corrigir.
+- Rosto: retoque leve de pele com controle de intensidade (suavizar e clarear), ou sem retoque.
+- Preço: 3 vídeos prontos grátis; depois assinatura semanal R$ 19,90, mensal R$ 47,90 ou anual R$ 299,00, sem período de teste.
+- Privacidade: https://romulorgc.github.io/cravar/privacidade/
+- Suporte: https://romulorgc.github.io/cravar/suporte/
